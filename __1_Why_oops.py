@@ -212,3 +212,7 @@ a=[1,1,1,2,3,1,1,4,5,6,7,1,2,3,4,5,6,1]
 # while i <= 1:
 #     a.rem ove(i)
 #     print(a)
+
+def table(num):
+    print(num)
+table(5)
